@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodevs_co=self.webpackChunkcodevs_co||[]).push([[4523],{4079:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/codevs.co/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
