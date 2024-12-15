@@ -17,3 +17,59 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+tecnología:
+  label: Tecnología
+  permalink: /tecnologia
+  description: Descubre tendencias, herramientas e innovaciones que transforman el mundo a través de la tecnología
+
+comunidad:
+  label: Comunidad
+  permalink: /comunidad
+  description: Un espacio para conectar, colaborar y crecer junto a apasionados de la tecnología.
+
+codevs:
+  label: Codevs.co
+  permalink: /codevs-co
+  description: Noticias, proyectos y contenido destacado de la comunidad de codevs.co.
+
+# Tags por enfoque
+# Tutoriales: guías, tutorial, paso a paso, conceptos básicos, avanzado
+
+guias:
+  label: Guías
+  permalink: /guias
+  description: Encuentra guías paso a paso para aprender nuevas tecnologías y herramientas.
+
+tutorial:
+  label: Tutorial
+  permalink: /tutorial
+  description: Aprende a través de tutoriales sobre tecnologías y herramientas.
+
+paso-a-paso:
+  label: Paso a paso
+  permalink: /paso-a-paso
+  description: Aprende de forma sencilla y gradual con tutoriales paso a paso.
+
+conceptos-basicos:
+  label: Conceptos básicos
+  permalink: /conceptos-basicos
+  description: Aprende los conceptos básicos de tecnologías y herramientas.
+
+avanzado:
+  label: Avanzado
+  permalink: /avanzado
+  description: Aprende conceptos avanzados de tecnologías y herramientas.
+
+# Inteligencia Artificial: IA, inteligencia artificial, machine learning, deep learning, data science
+
+ia:
+  label: IA
+  permalink: /ia
+  description: Descubre el mundo de la inteligencia artificial y sus aplicaciones.
+
+inteligencia-artificial:
+  label: Inteligencia Artificial
+  permalink: /inteligencia-artificial
+  description: Descubre el mundo de la inteligencia artificial y sus aplicaciones.
+
