@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodevs_co=self.webpackChunkcodevs_co||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\xa1Bienvenidos a codevs.co!","permalink":"/blog/welcome","unlisted":false,"date":"2024-12-14T00:00:00.000Z"}]}')}}]);
