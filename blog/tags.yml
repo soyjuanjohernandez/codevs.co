@@ -73,3 +73,586 @@ inteligencia-artificial:
   permalink: /inteligencia-artificial
   description: Descubre el mundo de la inteligencia artificial y sus aplicaciones.
 
+
+#front-end: web development, front-end development, frontend
+
+web-development:
+  label: Web Development
+  permalink: /web-development
+  description: Aprende sobre desarrollo web, desde el front-end hasta el back-end.
+
+front-end:
+  label: Front-end
+  permalink: /front-end
+  description: Explora el desarrollo front-end, desde el diseño hasta la interacción del usuario.
+
+frontend:
+  label: Frontend
+  permalink: /frontend
+  description: Explora el desarrollo front-end, desde el diseño hasta la interacción del usuario.
+
+
+#back-end: back-end development, backend
+
+back-end-development:
+  label: Back-end Development
+  permalink: /back-end-development
+  description: Aprende sobre desarrollo back-end, desde la lógica de negocio hasta la base de datos.
+
+back-end:
+  label: Back-end
+  permalink: /back-end
+  description: Explora el desarrollo back-end, desde la lógica de negocio hasta la base de datos.
+
+
+# Lenguajes: javascript, python, java, c++, c#, php, ruby, go, kotlin, swift, rust, dart, flutter, react, vue, angular, svelte, nodejs, express, nestjs, spring, django, flask, laravel, ruby-on-rails, go, kotlin, swift, rust, dart, flutter, react, vue, angular, svelte, nodejs, express, nestjs, spring, django, flask, laravel, ruby-on-rails
+
+javascript:
+  label: JavaScript
+  permalink: /javascript
+  description: Aprende sobre JavaScript, el lenguaje de programación esencial para el desarrollo web interactivo.
+
+python:
+  label: Python
+  permalink: /python
+  description: Explora Python, conocido por su simplicidad y potencia en inteligencia artificial y ciencia de datos.
+
+java:    
+  label: Java
+  permalink: /java
+  description: Descubre Java, ideal para aplicaciones empresariales robustas y escalables.
+
+c++:
+  label: C++
+  permalink: /c++
+  description: Conoce C++, utilizado en el desarrollo de sistemas operativos y videojuegos de alto rendimiento.
+
+c#:
+  label: C#
+  permalink: /c#
+  description: Aprende C#, popular en el desarrollo de aplicaciones empresariales y videojuegos con Unity.
+
+php:  
+  label: PHP
+  permalink: /php
+  description: Descubre PHP, ampliamente utilizado en el desarrollo de sitios web dinámicos y aplicaciones web.
+
+ruby: 
+  label: Ruby
+  permalink: /ruby
+  description: Explora Ruby, conocido por su elegancia y productividad en el desarrollo web.
+
+go: 
+  label: Go
+  permalink: /go
+  description: Aprende Go, diseñado por Google para aplicaciones concurrentes y de alto rendimiento.
+
+kotlin: 
+  label: Kotlin
+  permalink: /kotlin
+  description: Conoce Kotlin, el lenguaje moderno para el desarrollo de aplicaciones Android.
+
+swift:  
+  label: Swift
+  permalink: /swift
+  description: Descubre Swift, el lenguaje de programación para aplicaciones iOS y macOS.
+
+rust:
+  label: Rust
+  permalink: /rust
+  description: Explora Rust, conocido por su seguridad y eficiencia en el desarrollo de sistemas.
+
+dart:
+  label: Dart
+  permalink: /dart
+  description: Aprende Dart, el lenguaje detrás de Flutter para el desarrollo de aplicaciones móviles.
+
+flutter:  
+  label: Flutter
+  permalink: /flutter
+  description: Descubre Flutter, el framework de Google para crear aplicaciones móviles nativas.
+
+react:  
+  label: React
+  permalink: /react
+  description: Conoce React, la biblioteca de JavaScript para construir interfaces de usuario interactivas.
+
+vue:  
+  label: Vue
+  permalink: /vue
+  description: Explora Vue, el framework progresivo para construir interfaces de usuario.
+
+angular:
+  label: Angular
+  permalink: /angular
+  description: Aprende Angular, el framework de Google para aplicaciones web robustas.
+
+svelte:
+  label: Svelte
+  permalink: /svelte
+  description: Descubre Svelte, el framework que convierte tu código en JavaScript eficiente.
+
+nodejs: 
+  label: Node.js
+  permalink: /nodejs
+  description: Conoce Node.js, el entorno de ejecución para construir aplicaciones de red escalables.
+
+express:
+  label: Express
+  permalink: /express
+  description: Aprende Express, el framework minimalista para aplicaciones web en Node.js.
+
+nestjs:
+  label: NestJS
+  permalink: /nestjs
+  description: Explora NestJS, el framework para aplicaciones web escalables y mantenibles en Node.js.
+
+spring: 
+  label: Spring
+  permalink: /spring
+  description: Descubre Spring, el framework para aplicaciones empresariales en Java.
+
+django:
+  label: Django
+  permalink: /django
+  description: Conoce Django, el framework de alto nivel para el desarrollo rápido de aplicaciones web en Python.
+
+flask:
+  label: Flask
+  permalink: /flask
+  description: Aprende Flask, el microframework para aplicaciones web ligeras en Python.
+
+laravel:  
+  label: Laravel
+  permalink: /laravel
+  description: Explora Laravel, el framework elegante para el desarrollo web en PHP.
+
+ruby-on-rails:  
+  label: Ruby on Rails
+  permalink: /ruby-on-rails
+  description: Descubre Ruby on Rails, el framework que facilita el desarrollo de aplicaciones web en Ruby.
+
+css:
+  label: CSS
+  permalink: /css
+  description: Aprende CSS, el lenguaje de estilos para diseñar páginas web atractivas.
+
+html:
+  label: HTML
+  permalink: /html
+  description: Conoce HTML, el lenguaje de marcado fundamental para la creación de páginas web.
+
+
+
+# Herramientas y tecnologías: git, github, gitlab, bitbucket, docker, kubernetes, jenkins, travis, circleci, heroku, netlify, vercel, aws, azure, google-cloud, firebase, mongodb, mysql, postgresql, sqlite, redis, elasticsearch, kafka, rabbitmq, nginx, apache, iis, linux, ubuntu, centos, debian, fedora, windows, macos, ios, android, raspberry-pi, arduino, esp32, esp8266, raspberry-pi, arduino, esp32, esp8266, vscode, intellij, eclipse, netbeans, vim, emacs, sublime-text, atom, webstorm, pycharm, visual-studio, visual-studio-code, xcode, android-studio, postman, insomnia, swagger, openapi, graphql, rest, soap, websockets, tcp, udp, http, https, ssh, ftp, sftp, smtp, imap, pop3, dns, dhcp, tcp-ip, udp-ip, ipv4, ipv6, http2, http3, websocket, graphql, rest, soap, websockets, tcp, udp, http, https, ssh, ftp, sftp, smtp, imap, pop3, dns, dhcp, tcp-ip, udp-ip, ipv4, ipv6, http2, http3, websocket
+
+regex:
+  label: Regex
+  permalink: /regex
+  description: Todo sobre expresiones regulares, patrones de búsqueda y manipulación de texto.
+
+expresiones-regulares:
+  label: Expresiones regulares
+  permalink: /expresiones-regulares
+  description: Todo sobre expresiones regulares, patrones de búsqueda y manipulación de texto.
+
+git:
+  label: Git
+  permalink: /git
+  description: Todo sobre Git, el sistema de control de versiones distribuido.
+
+github:
+  label: GitHub
+  permalink: /github
+  description: Todo sobre GitHub, la plataforma de desarrollo colaborativo basada en Git.
+
+gitlab:
+  label: GitLab
+  permalink: /gitlab
+  description: Todo sobre GitLab, una plataforma de DevOps completa.
+
+bitbucket:
+  label: Bitbucket
+  permalink: /bitbucket
+  description: Todo sobre Bitbucket, la plataforma de desarrollo colaborativo que soporta Git y Mercurial.
+
+docker: 
+  label: Docker
+  permalink: /docker
+  description: Todo sobre Docker, la herramienta para crear, desplegar y ejecutar aplicaciones en contenedores.
+
+kubernetes:
+  label: Kubernetes
+  permalink: /kubernetes
+  description: Todo sobre Kubernetes, el sistema de orquestación de contenedores para automatizar la gestión de aplicaciones en contenedores.
+
+jenkins:
+  label: Jenkins
+  permalink: /jenkins
+  description: Todo sobre Jenkins, la herramienta de integración continua y entrega continua para automatizar el desarrollo de software.
+
+travis:
+  label: Travis CI
+  permalink: /travis-ci
+  description: Todo sobre Travis CI, el servicio de integración continua para proyectos de código abierto.
+
+circleci:
+  label: CircleCI
+  permalink: /circleci
+  description: Todo sobre CircleCI, la plataforma de integración continua y entrega continua para proyectos de software.
+
+heroku:
+  label: Heroku
+  permalink: /heroku
+  description: Todo sobre Heroku, la plataforma en la nube para desplegar, gestionar y escalar aplicaciones.
+
+netlify:
+  label: Netlify
+  permalink: /netlify
+  description: Todo sobre Netlify, la plataforma de desarrollo web moderno y alojamiento de sitios web.
+
+vercel:
+  label: Vercel
+  permalink: /vercel
+  description: Todo sobre Vercel, la plataforma de desarrollo web moderno y alojamiento de sitios web.
+
+aws:
+  label: AWS
+  permalink: /aws
+  description: Todo sobre Amazon Web Services, la plataforma de servicios en la nube de Amazon.
+
+azure:
+  label: Azure
+  permalink: /azure
+  description: Todo sobre Microsoft Azure, la plataforma de servicios en la nube de Microsoft.
+
+google-cloud:
+  label: Google Cloud
+  permalink: /google-cloud
+  description: Todo sobre Google Cloud, la plataforma de servicios en la nube de Google.
+
+firebase:
+  label: Firebase
+  permalink: /firebase
+  description: Todo sobre Firebase, la plataforma de desarrollo de aplicaciones móviles y web de Google.
+
+mongodb:
+  label: MongoDB
+  permalink: /mongodb
+  description: Todo sobre MongoDB, la base de datos NoSQL de alto rendimiento.
+
+mysql:
+  label: MySQL
+  permalink: /mysql
+  description: Todo sobre MySQL, la base de datos relacional de código abierto más popular.
+
+postgresql:
+  label: PostgreSQL
+  permalink: /postgresql
+  description: Todo sobre PostgreSQL, la base de datos relacional de código abierto más avanzada.
+
+sqlite:
+  label: SQLite
+  permalink: /sqlite
+  description: Todo sobre SQLite, la base de datos relacional embebida de código abierto.
+
+redis:
+  label: Redis
+  permalink: /redis
+  description: Todo sobre Redis, la base de datos en memoria de código abierto.
+
+elasticsearch:
+  label: Elasticsearch
+  permalink: /elasticsearch
+  description: Todo sobre Elasticsearch, el motor de búsqueda y análisis distribuido.
+
+kafka:
+  label: Kafka
+  permalink: /kafka
+  description: Todo sobre Kafka, la plataforma de streaming distribuido.
+
+rabbitmq:
+  label: RabbitMQ
+  permalink: /rabbitmq
+  description: Todo sobre RabbitMQ, el servidor de mensajería de código abierto.
+
+nginx:
+  label: Nginx
+  permalink: /nginx
+  description: Todo sobre Nginx, el servidor web y proxy inverso de alto rendimiento.
+
+apache:
+  label: Apache
+  permalink: /apache
+  description: Todo sobre Apache, el servidor web de código abierto más popular.
+
+iis:
+  label: IIS
+  permalink: /iis
+  description: Todo sobre Internet Information Services, el servidor web de Microsoft.
+
+linux:
+  label: Linux
+  permalink: /linux
+  description: Todo sobre Linux, el sistema operativo de código abierto más popular.
+
+ubuntu:
+  label: Ubuntu
+  permalink: /ubuntu
+  description: Todo sobre Ubuntu, la distribución de Linux basada en Debian más popular.
+
+centos:
+  label: CentOS
+  permalink: /centos
+  description: Todo sobre CentOS, la distribución de Linux basada en Red Hat Enterprise Linux.
+
+debian:
+  label: Debian
+  permalink: /debian
+  description: Todo sobre Debian, la distribución de Linux basada en software libre.
+
+fedora:
+  label: Fedora
+  permalink: /fedora
+  description: Todo sobre Fedora, la distribución de Linux basada en software libre y de código abierto.
+
+windows:
+  label: Windows
+  permalink: /windows
+  description: Todo sobre Windows, el sistema operativo de Microsoft para ordenadores personales.
+
+macos:
+  label: macOS
+  permalink: /macos
+  description: Todo sobre macOS, el sistema operativo de Apple para ordenadores Mac.  
+
+ios:
+  label: iOS
+  permalink: /ios
+  description: Todo sobre iOS, el sistema operativo móvil de Apple para iPhone y iPad.
+
+android:
+  label: Android
+  permalink: /android
+  description: Todo sobre Android, el sistema operativo móvil de Google para dispositivos móviles.
+
+raspberry-pi:
+  label: Raspberry Pi
+  permalink: /raspberry-pi
+  description: Todo sobre Raspberry Pi, la placa de ordenador de bajo coste y tamaño reducido.
+
+arduino:
+  label: Arduino
+  permalink: /arduino
+  description: Todo sobre Arduino, la plataforma de hardware libre y software libre para prototipos electrónicos.
+
+esp32:
+  label: ESP32
+  permalink: /esp32
+  description: Todo sobre ESP32, el microcontrolador de bajo coste y bajo consumo de energía.
+
+esp8266:
+  label: ESP8266
+  permalink: /esp8266
+  description: Todo sobre ESP8266, el microcontrolador de bajo coste y bajo consumo de energía.
+
+vscode:
+  label: Visual Studio Code
+  permalink: /visual-studio-code
+  description: Todo sobre Visual Studio Code, el editor de código fuente desarrollado por Microsoft.
+
+intellij:
+  label: IntelliJ IDEA
+  permalink: /intellij-idea
+  description: Todo sobre IntelliJ IDEA, el entorno de desarrollo integrado para Java de JetBrains.
+
+eclipse:
+  label: Eclipse
+  permalink: /eclipse
+  description: Todo sobre Eclipse, el entorno de desarrollo integrado de código abierto.
+
+netbeans:
+  label: NetBeans
+  permalink: /netbeans
+  description: Todo sobre NetBeans, el entorno de desarrollo integrado de código abierto.
+
+vim:
+  label: Vim
+  permalink: /vim
+  description: Todo sobre Vim, el editor de texto modal y altamente configurable.
+
+emacs:
+  label: Emacs
+  permalink: /emacs
+  description: Todo sobre Emacs, el editor de texto extensible y altamente personalizable.
+
+sublime-text:
+  label: Sublime Text
+  permalink: /sublime-text
+  description: Todo sobre Sublime Text, el editor de texto sofisticado y altamente personalizable.
+
+atom:
+  label: Atom
+  permalink: /atom
+  description: Todo sobre Atom, el editor de texto de código abierto y altamente personalizable.
+
+webstorm:
+  label: WebStorm
+  permalink: /webstorm
+  description: Todo sobre WebStorm, el entorno de desarrollo integrado para JavaScript de JetBrains.
+
+pycharm:
+  label: PyCharm
+  permalink: /pycharm
+  description: Todo sobre PyCharm, el entorno de desarrollo integrado para Python de JetBrains.
+
+visual-studio:
+  label: Visual Studio
+  permalink: /visual-studio
+  description: Todo sobre Visual Studio, el entorno de desarrollo integrado para Windows de Microsoft.
+
+xcode:
+  label: Xcode
+  permalink: /xcode
+  description: Todo sobre Xcode, el entorno de desarrollo integrado para macOS de Apple.
+
+android-studio:
+  label: Android Studio
+  permalink: /android-studio
+  description: Todo sobre Android Studio, el entorno de desarrollo integrado para Android de Google.
+
+postman:
+  label: Postman
+  permalink: /postman
+  description: Todo sobre Postman, la plataforma de colaboración para el desarrollo de API.
+
+insomnia:
+  label: Insomnia
+  permalink: /insomnia
+  description: Todo sobre Insomnia, el cliente de API con diseño y prueba de API.
+
+swagger:
+  label: Swagger
+  permalink: /swagger
+  description: Todo sobre Swagger, la herramienta de diseño y documentación de API.
+
+openapi:
+  label: OpenAPI
+  permalink: /openapi
+  description: Todo sobre OpenAPI, la especificación de API para describir y documentar servicios web RESTful.
+
+websockets:
+  label: WebSockets
+  permalink: /websockets
+  description: Todo sobre WebSockets, el protocolo de comunicación bidireccional en tiempo real.
+
+tcp:
+  label: TCP
+  permalink: /tcp
+  description: Todo sobre TCP, el protocolo de control de transmisión para la comunicación en red.
+
+udp:
+  label: UDP
+  permalink: /udp
+  description: Todo sobre UDP, el protocolo de datagramas de usuario para la comunicación en red.
+
+http:
+  label: HTTP
+  permalink: /http
+  description: Todo sobre HTTP, el protocolo de transferencia de hipertexto para la comunicación en la web.
+
+https:
+  label: HTTPS
+  permalink: /https
+  description: Todo sobre HTTPS, el protocolo de transferencia de hipertexto seguro para la comunicación en la web.
+
+ssh:
+  label: SSH
+  permalink: /ssh
+  description: Todo sobre SSH, el protocolo de red seguro para la administración remota de sistemas.
+
+ftp:
+  label: FTP
+  permalink: /ftp
+  description: Todo sobre FTP, el protocolo de transferencia de archivos para la comunicación en red.
+
+sftp:
+  label: SFTP
+  permalink: /sftp
+  description: Todo sobre SFTP, el protocolo de transferencia de archivos seguro para la comunicación en red.
+
+smtp:
+  label: SMTP
+  permalink: /smtp
+  description: Todo sobre SMTP, el protocolo de transferencia de correo electrónico para la comunicación en red.
+
+imap:
+  label: IMAP
+  permalink: /imap
+  description: Todo sobre IMAP, el protocolo de acceso a mensajes de Internet para la comunicación en red.
+
+pop3:
+  label: POP3
+  permalink: /pop3
+  description: Todo sobre POP3, el protocolo de oficina de correos para la comunicación en red.
+
+dns:
+  label: DNS
+  permalink: /dns
+  description: Todo sobre DNS, el sistema de nombres de dominio para la resolución de nombres en la red.
+
+dhcp:
+  label: DHCP
+  permalink: /dhcp
+  description: Todo sobre DHCP, el protocolo de configuración dinámica de host para la administración de direcciones IP.
+
+tcp-ip:
+  label: TCP/IP
+  permalink: /tcp-ip
+  description: Todo sobre TCP/IP, el conjunto de protocolos de comunicación en la red.
+
+udp-ip:
+  label: UDP/IP
+  permalink: /udp-ip
+  description: Todo sobre UDP/IP, el conjunto de protocolos de comunicación en la red.
+
+ipv4:
+  label: IPv4
+  permalink: /ipv4
+  description: Todo sobre IPv4, la versión 4 del protocolo de Internet.
+
+ipv6:
+  label: IPv6
+  permalink: /ipv6
+  description: Todo sobre IPv6, la versión 6 del protocolo de Internet.
+
+http2:
+  label: HTTP/2
+  permalink: /http2
+  description: Todo sobre HTTP/2, la segunda versión del protocolo de transferencia de hipertexto.
+
+http3:
+  label: HTTP/3
+  permalink: /http3
+  description: Todo sobre HTTP/3, la tercera versión del protocolo de transferencia de hipertexto.
+
+websocket:
+  label: WebSocket
+  permalink: /websocket
+  description: Todo sobre WebSocket, el protocolo de comunicación bidireccional en tiempo real.
+
+graphql:
+  label: GraphQL
+  permalink: /graphql
+  description: Todo sobre GraphQL, el lenguaje de consulta y manipulación de datos para API.
+
+rest:
+  label: REST
+  permalink: /rest
+  description: Todo sobre REST, el estilo arquitectónico para el desarrollo de servicios web.
+
+soap:
+  label: SOAP
+  permalink: /soap
+  description: Todo sobre SOAP, el protocolo de intercambio de mensajes estructurados en servicios web.
+
