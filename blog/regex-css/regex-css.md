@@ -3,7 +3,7 @@ slug: regex-in-css
 title: Expresiones regulares en CSS
 authors: [juanjo]
 tags: [css, regex, expresiones-regulares,frontend, ]
-image: https://i.imgur.com/mErPwqL.png
+image: ./header_regex_css.PNG
 hide_table_of_contents: false
 ---
 
