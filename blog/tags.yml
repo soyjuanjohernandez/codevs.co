@@ -81,11 +81,6 @@ web-development:
   permalink: /web-development
   description: Aprende sobre desarrollo web, desde el front-end hasta el back-end.
 
-front-end:
-  label: Front-end
-  permalink: /front-end
-  description: Explora el desarrollo front-end, desde el diseño hasta la interacción del usuario.
-
 frontend:
   label: Frontend
   permalink: /frontend

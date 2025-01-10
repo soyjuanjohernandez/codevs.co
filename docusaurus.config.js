@@ -25,6 +25,7 @@ const config = {
   organizationName: 'soyjuanjohernandez', // Usually your GitHub org/user name.
   projectName: 'codevs.co', // Usually your repo name.
   trailingSlash: false,
+  deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
