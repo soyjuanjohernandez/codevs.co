@@ -58,6 +58,7 @@ const config = {
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
+            
           },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -149,13 +150,14 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CODEVS.CO - Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Codevs.CO `,
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
+    themes: ['@docusaurus/theme-live-codeblock'],
 };
 
 export default config;
