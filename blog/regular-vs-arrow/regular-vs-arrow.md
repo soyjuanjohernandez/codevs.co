@@ -7,13 +7,17 @@ image: ./functions.png
 hide_table_of_contents: false
 ---
 
+import {ShareButtons} from '@site/src/components/ShareSocial'
+
 ![funciones JS](./functions.png)
 
 La diferencia principal entre una **función flecha - arrow function** y una **función normal** en JavaScript <!-- truncate --> radica en cómo manejan el contexto de **`this`**, aunque también hay diferencias de sintaxis.
 
 ### 1. **Sintaxis**
 
-- **Función normal**:
+
+
+- **Función normal**
 
   ```javascript
   function sumar(a, b) {
@@ -21,7 +25,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
   }
   ```
 
-- **Función flecha - Arrow function**:
+- **Función flecha - Arrow function**
 
   ```jsx showLineNumbers
   const sumar = (a, b) => {
@@ -32,11 +36,11 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
   **Diferencias:**
 
   - Las **arrow functions** pueden tener una sintaxis más corta.
-  - Si solo tienen una expresión, el resultado se retorna automáticamente (sin necesidad de usar `return`), esto se conoce como **retorno implícito**:
+  - Si solo tienen una expresión, el resultado se retorna automáticamente (sin necesidad de usar `return`), esto se conoce como **retorno implícito**
     ```jsx
     const sumar = (a, b) => a + b;
     ```
-  - Si hay un solo parámetro, se pueden omitir los paréntesis:
+  - Si hay un solo parámetro, se pueden omitir los paréntesis
 
     ```javascript
     const cuadrado = (x) => x * x;
@@ -72,7 +76,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
 
 ### 2. **`this` y el contexto**
 
-- **Función normal**:
+- **Función normal**
 
   El valor de `this` depende de cómo se llama a la función. Puede cambiar según el contexto, por ejemplo, si se usa en un objeto, evento o función constructora.
 
@@ -87,7 +91,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
   console.log(obj.sumar()); // 15
   ```
 
-- **Arrow function**:
+- **Arrow function**
 
   Al utilizar una función de flecha esta no crea automáticamente una variable `this`. Como resultado, cualquier referencia a `this` apuntaría a lo que `this` era antes de que se creara la función
 
@@ -114,7 +118,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
 
 ### 3. **Uso con constructores**
 
-- **Función normal**:
+- **Función normal**
 
   Se pueden usar funciones normales como constructores con `new`.
 
@@ -126,7 +130,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
   console.log(persona.nombre); // "Juan"
   ```
 
-- **Arrow function**:
+- **Arrow function**
 
   No se pueden usar como constructores y lanzan un error si intentas hacerlo.
 
@@ -141,7 +145,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
 
 ### 4. **`arguments`**
 
-- **Función normal**:
+- **Función normal**
 
   Las funciones normales tienen acceso al objeto especial `arguments`, que contiene los parámetros pasados a la función.
 
@@ -153,7 +157,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
   console.log(sumar(1, 2, 3)); // 6
   ```
 
-- **Arrow function**:
+- **Arrow function**
 
   Las arrow functions no tienen el objeto `arguments`, pero se puede usar el operador [**rest**](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/rest_parameters) agregado en la versión de Ecmascript 2015 ES5 (`...args`).
 
@@ -163,7 +167,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
   console.log(sumar(1, 2, 3)); // 6
   ```
 
-### Resumen:
+### Resumen
 
 | Característica       | Función Normal                    | Arrow Function                |
 | -------------------- | --------------------------------- | ----------------------------- |
@@ -172,3 +176,7 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
 | Uso como constructor | Permitido                         | No permitido                  |
 | `arguments`          | Disponible                        | No disponible, usa `...args`  |
 | Retorno implícito    | No                                | Sí, si es una sola expresión  |
+
+
+<ShareButtons />
+

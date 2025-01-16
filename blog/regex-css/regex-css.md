@@ -7,6 +7,8 @@ image: ./header_regex_css.PNG
 hide_table_of_contents: false
 ---
 
+import {ShareButtons} from '@site/src/components/ShareSocial'
+
 ![Regex in css](./header_regex_css.PNG)
 
 Las expresiones regulares, también llamadas regex, son una herramienta poderosa para buscar y manipular textos. Aunque las expresiones regulares no son nativas de CSS, se pueden utilizar en combinación con **selectores de atributos** para aplicar estilos de manera precisa.
@@ -137,3 +139,5 @@ Los selectores de atributos en CSS permiten seleccionar elementos basándose en 
     :::
 
 Estos selectores permiten una gran flexibilidad y pueden ser combinados con otros selectores para crear reglas de estilo más específicas y poderosas.
+
+<ShareButtons />
