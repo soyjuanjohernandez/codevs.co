@@ -9,7 +9,7 @@ hide_table_of_contents: false
 
 ![funciones JS](./functions.png)
 
-La diferencia principal entre una **funcion flecha - arrow function** y una **función normal** en JavaScript <!-- truncate --> radica en cómo manejan el contexto de **`this`**, aunque también hay diferencias de sintaxis.
+La diferencia principal entre una **función flecha - arrow function** y una **función normal** en JavaScript <!-- truncate --> radica en cómo manejan el contexto de **`this`**, aunque también hay diferencias de sintaxis.
 
 ### 1. **Sintaxis**
 
@@ -21,7 +21,7 @@ La diferencia principal entre una **funcion flecha - arrow function** y una **fu
   }
   ```
 
-- **Funcion flecha - Arrow function**:
+- **Función flecha - Arrow function**:
 
   ```jsx showLineNumbers
   const sumar = (a, b) => {
@@ -67,7 +67,6 @@ La diferencia principal entre una **funcion flecha - arrow function** y una **fu
        ```jsx showLineNumbers
        const sumar = (a, b) => a + b;
        ```
-    4. 
 
   <br></br>
 
@@ -116,6 +115,7 @@ La diferencia principal entre una **funcion flecha - arrow function** y una **fu
 ### 3. **Uso con constructores**
 
 - **Función normal**:
+
   Se pueden usar funciones normales como constructores con `new`.
 
   ```javascript
@@ -127,6 +127,7 @@ La diferencia principal entre una **funcion flecha - arrow function** y una **fu
   ```
 
 - **Arrow function**:
+
   No se pueden usar como constructores y lanzan un error si intentas hacerlo.
 
   ```javascript
@@ -141,7 +142,8 @@ La diferencia principal entre una **funcion flecha - arrow function** y una **fu
 ### 4. **`arguments`**
 
 - **Función normal**:
-  Las funciones normales tienen acceso al objeto especial `arguments`, que contiene los parámetros pasados.
+
+  Las funciones normales tienen acceso al objeto especial `arguments`, que contiene los parámetros pasados a la función.
 
   ```javascript
   function sumar() {
@@ -152,7 +154,8 @@ La diferencia principal entre una **funcion flecha - arrow function** y una **fu
   ```
 
 - **Arrow function**:
-  Las arrow functions no tienen `arguments`, pero se puede usar el operador [**rest**](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/rest_parameters) agregado en la versión de Ecmascript 2015 ES5 (`...args`).
+
+  Las arrow functions no tienen el objeto `arguments`, pero se puede usar el operador [**rest**](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Functions/rest_parameters) agregado en la versión de Ecmascript 2015 ES5 (`...args`).
 
   ```javascript
   const sumar = (...args) => args.reduce((a, b) => a + b);
