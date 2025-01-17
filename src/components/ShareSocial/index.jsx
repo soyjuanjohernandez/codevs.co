@@ -9,9 +9,9 @@ import {
 
 import "./styles.css";
 
-export const ShareButtons = () => {
-  const url = window.location.href;
-  const documentTiltle = document.title;
+export default function ShareButtons() {
+  const url = "window.location.href";
+  const documentTiltle = "document.title";
   const borderRadius = 8;
   const size = 48;
 
@@ -56,4 +56,4 @@ export const ShareButtons = () => {
       <RedditShare url={url} borderRadius={borderRadius} size={size} />
     </div>
   );
-};
+}

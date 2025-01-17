@@ -6,16 +6,13 @@ tags: [javascript, frontend, conceptos-basicos]
 image: ./functions.png
 hide_table_of_contents: false
 ---
-
-import {ShareButtons} from '@site/src/components/ShareSocial'
+import ShareButtons from "@site/src/components/ShareSocial";
 
 ![funciones JS](./functions.png)
 
 La diferencia principal entre una **función flecha - arrow function** y una **función normal** en JavaScript <!-- truncate --> radica en cómo manejan el contexto de **`this`**, aunque también hay diferencias de sintaxis.
 
 ### 1. **Sintaxis**
-
-
 
 - **Función normal**
 
@@ -106,14 +103,15 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
 
   ```javascript
   const obj = {
-    nombre: 'Juanjo',
-    print: () => console.log(this) // `this` no apunta al objeto
+    nombre: "Juanjo",
+    print: () => console.log(this), // `this` no apunta al objeto
   };
 
   console.log(obj.print()); // Window (objeto global)
   ```
 
   Esto hace que las **arrow functions** sean ideales para callbacks, como en los métodos de array o los manejadores de eventos, donde no se desea que `this` cambie.
+
   <br></br>
 
 ### 3. **Uso con constructores**
@@ -177,6 +175,4 @@ La diferencia principal entre una **función flecha - arrow function** y una **f
 | `arguments`          | Disponible                        | No disponible, usa `...args`  |
 | Retorno implícito    | No                                | Sí, si es una sola expresión  |
 
-
-<ShareButtons />
-
+<ShareButtons></ShareButtons>
