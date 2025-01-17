@@ -4,7 +4,7 @@
         <title>CODEVS.co Blog</title>
         <link>https://codevs.co/blog</link>
         <description>CODEVS.co Blog</description>
-        <lastBuildDate>Wed, 15 Jan 2025 13:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2025 18:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Diferencia entre funciones normales y funciones flecha en javascript]]></title>
             <link>https://codevs.co/blog/regular-vs-arrow</link>
             <guid>https://codevs.co/blog/regular-vs-arrow</guid>
-            <pubDate>Wed, 15 Jan 2025 13:18:15 GMT</pubDate>
+            <pubDate>Thu, 16 Jan 2025 18:38:20 GMT</pubDate>
             <description><![CDATA[funciones JS]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="funciones JS" src="https://codevs.co/assets/images/functions-3d5aef12bf4c28af562484e3800885ba.png" width="1080" height="380" class="img_ev3q"></p>
 <p>La diferencia principal entre una <strong>función flecha - arrow function</strong> y una <strong>función normal</strong> en JavaScript  radica en cómo manejan el contexto de <strong><code>this</code></strong>, aunque también hay diferencias de sintaxis.</p>
@@ -112,7 +112,7 @@
             <title><![CDATA[Expresiones regulares en CSS]]></title>
             <link>https://codevs.co/blog/regex-in-css</link>
             <guid>https://codevs.co/blog/regex-in-css</guid>
-            <pubDate>Fri, 10 Jan 2025 14:44:24 GMT</pubDate>
+            <pubDate>Fri, 10 Jan 2025 19:31:21 GMT</pubDate>
             <description><![CDATA[Regex in css]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="Regex in css" src="https://codevs.co/assets/images/header_regex_css-d57304bd92f83319f1ef1d53d5433e76.PNG" width="1000" height="270" class="img_ev3q"></p>
 <p>Las expresiones regulares, también llamadas regex, son una herramienta poderosa para buscar y manipular textos. Aunque las expresiones regulares no son nativas de CSS, se pueden utilizar en combinación con <strong>selectores de atributos</strong> para aplicar estilos de manera precisa.</p>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codevs.co/blog</id>
     <title>CODEVS.co Blog</title>
-    <updated>2025-01-15T13:18:15.467Z</updated>
+    <updated>2025-01-16T18:38:20.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codevs.co/blog"/>
     <subtitle>CODEVS.co Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Diferencia entre funciones normales y funciones flecha en javascript]]></title>
         <id>https://codevs.co/blog/regular-vs-arrow</id>
         <link href="https://codevs.co/blog/regular-vs-arrow"/>
-        <updated>2025-01-15T13:18:15.467Z</updated>
+        <updated>2025-01-16T18:38:20.000Z</updated>
         <summary type="html"><![CDATA[funciones JS]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="funciones JS" src="https://codevs.co/assets/images/functions-3d5aef12bf4c28af562484e3800885ba.png" width="1080" height="380" class="img_ev3q"></p>
 <p>La diferencia principal entre una <strong>función flecha - arrow function</strong> y una <strong>función normal</strong> en JavaScript  radica en cómo manejan el contexto de <strong><code>this</code></strong>, aunque también hay diferencias de sintaxis.</p>
@@ -115,7 +115,7 @@
         <title type="html"><![CDATA[Expresiones regulares en CSS]]></title>
         <id>https://codevs.co/blog/regex-in-css</id>
         <link href="https://codevs.co/blog/regex-in-css"/>
-        <updated>2025-01-10T14:44:24.979Z</updated>
+        <updated>2025-01-10T19:31:21.000Z</updated>
         <summary type="html"><![CDATA[Regex in css]]></summary>
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Regex in css" src="https://codevs.co/assets/images/header_regex_css-d57304bd92f83319f1ef1d53d5433e76.PNG" width="1000" height="270" class="img_ev3q"></p>
 <p>Las expresiones regulares, también llamadas regex, son una herramienta poderosa para buscar y manipular textos. Aunque las expresiones regulares no son nativas de CSS, se pueden utilizar en combinación con <strong>selectores de atributos</strong> para aplicar estilos de manera precisa.</p>
