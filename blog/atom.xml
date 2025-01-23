@@ -2,11 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codevs.co/blog</id>
     <title>CODEVS.co Blog</title>
-    <updated>2025-01-16T18:38:20.000Z</updated>
+    <updated>2025-01-23T23:34:29.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codevs.co/blog"/>
     <subtitle>CODEVS.co Blog</subtitle>
     <icon>https://codevs.co/img/favicon1.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[¿El Fin de la Web Tal Como la Conocemos? Los Riesgos de la IA en el Control del Conocimiento]]></title>
+        <id>https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento</id>
+        <link href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento"/>
+        <updated>2025-01-23T23:34:29.000Z</updated>
+        <summary type="html"><![CDATA[Con el auge de la inteligencia artificial (IA), la web y el contenido digital están experimentando una transformación sin precedentes. Sin embargo, esta evolución también plantea el riesgo de que la web tal como la conocemos desaparezca, alterando radicalmente la forma en que accedemos, compartimos y preservamos la información.]]></summary>
+        <content type="html"><![CDATA[<p>Con el auge de la inteligencia artificial (IA), la web y el contenido digital están experimentando una transformación sin precedentes. Sin embargo, esta evolución también plantea el riesgo de que la web tal como la conocemos desaparezca, alterando radicalmente la forma en que accedemos, compartimos y preservamos la información.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="homogeneización-del-contenido">Homogeneización del contenido<a href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento#homogeneizaci%C3%B3n-del-contenido" class="hash-link" aria-label="Enlace directo al Homogeneización del contenido" title="Enlace directo al Homogeneización del contenido">​</a></h3>
+<p>Los algoritmos de IA tienden a priorizar contenido optimizado para la retención y la interacción, lo que lleva a una <strong>disminución de la diversidad de fuentes de información</strong>. La web podría convertirse en un espacio dominado por contenido generado automáticamente, eliminando la diversidad de perspectivas humanas. Este fenómeno podría verse cada vez mas conforme la IA se torne como la principal fuente de información (transformación que ya estamos viendo hoy en día) y los sitios web más orgánicos empiecen a desaparecer.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="copia-y-eliminación-de-contenido-original">Copia y eliminación de contenido original<a href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento#copia-y-eliminaci%C3%B3n-de-contenido-original" class="hash-link" aria-label="Enlace directo al Copia y eliminación de contenido original" title="Enlace directo al Copia y eliminación de contenido original">​</a></h3>
+<p>La IA tiene la capacidad de analizar, replicar y reformular contenido original de diversas fuentes, lo que plantea un riesgo significativo para los creadores de contenido. Las páginas web tradicionales podrían <strong>perder tráfico y relevancia al verse desplazadas por plataformas impulsadas por IA</strong> que presentan información de manera más atractiva y accesible, sin necesidad de redirigir a las fuentes originales. Como consecuencia, bajarían los ingresos, visibilidad y viabilidad de muchas páginas web que consultamos hoy en día.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="control-centralizado-del-conocimiento">Control centralizado del conocimiento<a href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento#control-centralizado-del-conocimiento" class="hash-link" aria-label="Enlace directo al Control centralizado del conocimiento" title="Enlace directo al Control centralizado del conocimiento">​</a></h3>
+<p>Las grandes empresas tecnológicas que desarrollan IA tienen la capacidad de filtrar y priorizar la información, limitando el acceso a fuentes alternativas. La descentralización de la web se ve amenazada por algoritmos que favorecen contenido patrocinado o alineado con ciertos intereses comerciales y políticos, <strong>eliminando gradualmente la pluralidad de voces y el acceso a información diversa</strong>.</p>
+<p>El control centralizado del conocimiento no solo reduce la riqueza cultural y el pensamiento crítico, sino que también crea burbujas informativas donde los usuarios son constantemente expuestos a ideas homogéneas y repetitivas. <strong>A largo plazo, esta falta de variedad podría afectar la capacidad de las personas para descubrir nuevas perspectivas, limitando su visión del mundo</strong>. Además, la sobreexposición a contenido similar podría reforzar sesgos cognitivos preexistentes, disminuyendo la posibilidad de un debate abierto y plural.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="pérdida-de-información-histórica">Pérdida de información histórica<a href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento#p%C3%A9rdida-de-informaci%C3%B3n-hist%C3%B3rica" class="hash-link" aria-label="Enlace directo al Pérdida de información histórica" title="Enlace directo al Pérdida de información histórica">​</a></h3>
+<p>El contenido digital está en constante evolución, y la dependencia de modelos ia para la creación de contenido podría llevar a la eliminación de información valiosa que no se considera relevante en el presente. Esto supone una amenaza para la conservación del conocimiento histórico y cultural, ya que como se ha mencionado anteriormente, muchas webs junto con su contenido dejarían de ser viables y también debido a la centralización del contenido, información muy relevante podría ser cada vez menos visible incluso en los modelos generativos por los filtros que se aplican a dichos modelos.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dependencia-de-plataformas-cerradas">Dependencia de plataformas cerradas<a href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento#dependencia-de-plataformas-cerradas" class="hash-link" aria-label="Enlace directo al Dependencia de plataformas cerradas" title="Enlace directo al Dependencia de plataformas cerradas">​</a></h3>
+<p>La web abierta, basada en principios de acceso universal y diversidad, podría verse sustituida por ecosistemas cerrados controlados por unas pocas corporaciones que restringen el acceso y la participación en la producción de contenido. La falta de alternativas podría llevar a una pérdida de autonomía para los usuarios y creadores de contenido independientes.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="conclusión">Conclusión<a href="https://codevs.co/blog/el-fin-de-la-web-riesgos-ia-control-conocimiento#conclusi%C3%B3n" class="hash-link" aria-label="Enlace directo al Conclusión" title="Enlace directo al Conclusión">​</a></h3>
+<p>El impacto de la IA en la web podría significar el fin de la diversidad, la independencia y la accesibilidad de la información. Para evitar que la web desaparezca como la conocemos, es crucial fomentar iniciativas de contenido independiente, regulaciones para la transparencia de algoritmos y la educación digital para los usuarios. Asimismo, es fundamental establecer normativas que protejan la originalidad del contenido y garanticen la sostenibilidad de las fuentes de información, especialmente cuando estas fuentes de información han sido y seguirán siendo usadas para mejorar y continuar entrenando modelos de lenguaje.</p>]]></content>
+        <author>
+            <name>Cesar Quintero</name>
+            <uri>https://github.com/cequintero</uri>
+        </author>
+        <category label="IA" term="IA"/>
+        <category label="Inteligencia Artificial" term="Inteligencia Artificial"/>
+        <category label="Creadores de Contenido" term="Creadores de Contenido"/>
+        <category label="Ética en la IA" term="Ética en la IA"/>
+        <category label="Tecnología y Sociedad" term="Tecnología y Sociedad"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Diferencia entre funciones normales y funciones flecha en javascript]]></title>
         <id>https://codevs.co/blog/regular-vs-arrow</id>
