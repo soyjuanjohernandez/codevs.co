@@ -651,3 +651,18 @@ soap:
   permalink: /soap
   description: Todo sobre SOAP, el protocolo de intercambio de mensajes estructurados en servicios web.
 
+creadores-de-contenido:
+  label: Creadores de Contenido
+  permalink: /creadores-de-contenido
+  description: Temas relacionados con la producción de contenido en la web y los desafíos que enfrentan los creadores en la era digital.
+
+ética-en-la-ia:
+  label: Ética en la IA
+  permalink: /etica-en-la-ia
+  description: Reflexiones y debates sobre los desafíos éticos que plantea la inteligencia artificial en diversos ámbitos de la sociedad.
+
+tecnología-y-sociedad:
+  label: Tecnología y Sociedad
+  permalink: /tecnologia-y-sociedad
+  description: Análisis del impacto de la tecnología en la sociedad, desde la transformación digital hasta los cambios culturales y económicos.
+  
