@@ -10,16 +10,14 @@ import {
 
 import "./styles.css";
 
-export default function ShareButtons({url, title}) {
+export default function ShareButtons({info}) {
 
+    const { url, title } = info;
   const borderRadius = 8;
   const size = 48;
 
   return (
     <div className="share-buttons">
-
-      <h1>{title}</h1>
-
       <br></br>
       <h3>Compartir</h3>
       <br></br>

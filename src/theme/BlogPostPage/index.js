@@ -38,10 +38,7 @@ function BlogPostPageContent({sidebar, children}) {
 
   useEffect(() => {
     const url = window.location.href;
-  
     setInfo({ url, title });
-    
-    
   }, [title])
   
   return (
