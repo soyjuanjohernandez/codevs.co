@@ -666,3 +666,52 @@ tecnología-y-sociedad:
   permalink: /tecnologia-y-sociedad
   description: Análisis del impacto de la tecnología en la sociedad, desde la transformación digital hasta los cambios culturales y económicos.
   
+estructuras-de-datos:
+  label: Estructuras de Datos
+  permalink: /estructuras-de-datos
+  description: Conceptos esenciales y aplicaciones prácticas de las estructuras de datos en el desarrollo de software.
+
+algoritmos:
+  label: Algoritmos
+  permalink: /algoritmos
+  description: Estrategias y técnicas algorítmicas para optimizar la eficiencia del software.
+
+optimización:
+  label: Optimización
+  permalink: /optimizacion
+  description: Métodos para mejorar el rendimiento y la eficiencia de los sistemas mediante estructuras de datos adecuadas.
+
+programación:
+  label: Programación
+  permalink: /programacion
+  description: Principios fundamentales y buenas prácticas en programación moderna.
+
+desarrollo-de-software:
+  label: Desarrollo de Software
+  permalink: /desarrollo-de-software
+  description: Recursos y metodologías para la creación de software de calidad y escalable.
+
+ingeniería-de-software:
+  label: Ingeniería de Software
+  permalink: /ingenieria-de-software
+  description: Diseño, implementación y mantenimiento de sistemas de software robustos.
+
+bases-de-datos:
+  label: Bases de Datos
+  permalink: /bases-de-datos
+  description: Uso de estructuras de datos en la gestión eficiente de la información.
+
+eficiencia:
+  label: Eficiencia
+  permalink: /eficiencia
+  description: Técnicas para maximizar el rendimiento del software a través del uso correcto de estructuras de datos.
+
+escalabilidad:
+  label: Escalabilidad
+  permalink: /escalabilidad
+  description: Cómo las estructuras de datos contribuyen a la expansión eficiente de los sistemas.
+
+recursos-computacionales:
+  label: Recursos Computacionales
+  permalink: /recursos-computacionales
+  description: Optimización del uso de memoria y tiempo de procesamiento mediante estructuras de datos efectivas.
